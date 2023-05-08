@@ -8,7 +8,7 @@ import java.util.Properties;
 
 @CommandLine.Command(name = "KStreamsFilterApp",
         version = "KStreamsFilterApp 0.1",
-        description = "Kafka Streams based filter app for Matrixx events.",
+        description = "Kafka Streams based filter app for events.",
         mixinStandardHelpOptions = true)
 
 /**
